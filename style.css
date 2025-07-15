@@ -73,7 +73,7 @@ header {
     left: 0;
     width: 100vw;
     height: 101.6vh;
-    background-image: url(./image/pic/under_water.png);
+    background-image: url(./pic/under_water.png);
     background-repeat: no-repeat;
     background-size: cover;
     /* background: #111111; */
@@ -86,7 +86,7 @@ header {
     left: 0;
     width: 100vw;
     height: 101.6vh;
-    background-image: url(./image/pic/sikisai2.png);
+    background-image: url(./pic/sikisai2.png);
     background-repeat: no-repeat;
     background-size: cover;
     /* background: #111111; */
